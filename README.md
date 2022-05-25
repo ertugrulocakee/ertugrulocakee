@@ -1,5 +1,11 @@
-  Hi there 👋
-  I’m Ertuğrul Ocak.
-  👀 I’m interested in .NET Ecosystem and Mobile Applications.
-  🌱 I can say that I mostly interested in .NET Core and .NET recently. I have four projects about .NET on GitHub nowadays. I will add new projects in the future.
-  🌱 I’m currently learning new things about software techologies.
+Hi there 👋
+I'm Ertuğrul. Information Technologies Master's Degree (non thesis) at Yildiz Technical University, mostly interested software technologies.
+
+My communication addresses
+
+=> My mail address: ertugrulocakee@gmail.com
+
+
+I mainly work with these tools
+
+.NET,JAVA,Native Android,MSSQL,SQLITE,SWAGGER/POSTMAN
