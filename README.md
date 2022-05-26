@@ -8,4 +8,4 @@ My communication addresses
 
 I mainly work with these tools
 
-.NET,JAVA,Native Android,MSSQL,SQLITE,SWAGGER/POSTMAN
+.NET Ecosystem,JAVA,Native Android(Java&&Kotlin),MSSQL,SQLITE,POSTGRESQL,SWAGGER/POSTMAN
