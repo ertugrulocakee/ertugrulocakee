@@ -1,5 +1,5 @@
 Hi there 👋
-I'm Ertuğrul. I am engineer. I graduated from Information Technologies Master's Degree (non thesis) at Yildiz Technical University. I am mostly interested software technologies.
+I'm Ertuğrul. I am an engineer. I graduated from Information Technologies Master's Degree (non thesis) at Yildiz Technical University. I am mostly interested software technologies.
 
 My communication addresses
 
