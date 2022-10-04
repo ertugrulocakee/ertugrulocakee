@@ -1,5 +1,5 @@
 Hi there 👋
-I'm Ertuğrul. Information Technologies Master's Degree (non thesis) at Yildiz Technical University, mostly interested software technologies.
+I'm Ertuğrul. I am engineer. I graduated from Information Technologies Master's Degree (non thesis) at Yildiz Technical University. I am mostly interested software technologies.
 
 My communication addresses
 
@@ -8,4 +8,4 @@ My communication addresses
 
 I mainly work with these tools
 
-.NET Ecosystem,Native Android(Java&&Kotlin),SELENIUM(JAVA&&C#)
+.NET Ecosystem,Native Android(Java&&Kotlin),Test automation(SELENIUM&&APPIUM)
